@@ -1,2 +1,2 @@
 # Chat-App
-A simple Angular Chat-App with Facebook Firebase Authentication
+An Example of a simple Angular Chat-App with Facebook Firebase Authentication
